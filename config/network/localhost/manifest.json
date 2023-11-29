@@ -1,7 +1,7 @@
 {
     "serverAddress": "localhost",
     "serverName": "Site 17 Database",
-    "iconName": "Moon-icon.png",
+    "iconName": "SCPLogo.png",
     "terminalID": "Sub-6-2",
     "defaultUser": {
         "userId": "user",
