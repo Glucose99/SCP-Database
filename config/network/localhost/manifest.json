@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Site 17 Database",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "Sub-6-2",
     "defaultUser": {
         "userId": "user",
         "password": "",
