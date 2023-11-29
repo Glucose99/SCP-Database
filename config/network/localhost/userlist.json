@@ -1,14 +1,14 @@
 [
     {
         "userId": "Psi9-01",
-        "password": "MTF-AbyssGazers-018596",
+        "password": "MTF-018596",
         "userName": "Player 1"
     },
 
     {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
+        "userId": "Psi9-02",
+        "password": "MTF-023247",
+        "userName": "Player 2"
     },
 
     {
@@ -18,8 +18,8 @@
     },
 
     {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
+        "userId": "Psi9-03",
+        "password": "MTF-032591",
+        "userName": "Player 3"
     }
 ]
